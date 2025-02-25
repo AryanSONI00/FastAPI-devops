@@ -26,7 +26,7 @@ DevOps-Assignment/
 
 ## 🛠️ How to Install and Run Locally
 
-1. 🔹 Clone the repository:
+1. 🔹 Clone the repository from the link
 
 2. 🔹 Create a virtual environment and activate it:
 
