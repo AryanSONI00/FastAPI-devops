@@ -171,3 +171,5 @@ git push -u origin main
 
 
 This documentation provides a complete guide for setting up and deploying a Dockerized FastAPI application with Continuous Delivery using GitHub Actions. 🎯
+
+## Developed by Aryan Soni
